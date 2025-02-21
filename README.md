@@ -3,4 +3,4 @@ Some description!
 
 ## Subheader
 
-Watch turtorila on Youtube
+Watch turtorial on Youtube
